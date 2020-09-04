@@ -1,2 +1,2 @@
-# GRUPO10_Silva_Basaez
-Repostorio para la guia 2
+#Curso EIE507
+#Grupo 10
